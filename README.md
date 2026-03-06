@@ -6,6 +6,10 @@ We already have AI/ML, FPGA, and ATAK coders, (Jeffrey Zurita, Jigish Shukla, RI
 
 This is currently in proposal stage, I have a proposal for HR001125S0002 that will be submitted at the end of 10/2025.  We're looking for collaborators and funding!
 
+## Intellectual Property
+
+We have not yet heard back yet from DARPA and I am sidelining this project.  I am willing to sell the IP including entire plane.so schedule with all development criteria, an 18-month timeline.  All of my IP can be [found here](https://drive.google.com/drive/folders/1yF1Go5e1_nphQy5U_lw1S7jZcHvtrStE?usp=drive_link) however I retain rights.  If you would like to license it, please contact me jack a@t ethertech.org
+
 ## Research
 
 Research papers used in the creation of this project [are available here](https://drive.google.com/drive/folders/1nI4PxRj696r4SvfwzsQGl0-2W4ehx8ts?usp=sharing).
