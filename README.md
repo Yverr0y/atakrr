@@ -8,7 +8,7 @@ This is currently in proposal stage, I have a proposal for HR001125S0002 that wi
 
 ## Intellectual Property
 
-We have not yet heard back yet from DARPA and I am sidelining this project.  I am willing to sell the IP including entire plane.so schedule with all development criteria, an 18-month timeline.  All of my IP can be [found here](https://drive.google.com/drive/folders/1yF1Go5e1_nphQy5U_lw1S7jZcHvtrStE?usp=drive_link) however I retain rights.  If you would like to license it, please contact me jack a@t ethertech.org
+We have not yet heard back yet from DARPA and I am sidelining this project.  I am willing to sell the IP including entire plane.so schedule with all development criteria, an 18-month timeline.  All of my IP can be [found here](https://drive.google.com/drive/folders/1yF1Go5e1_nphQy5U_lw1S7jZcHvtrStE?usp=drive_link) however I retain rights.  If you would like to license it, please contact me jack a@t ethertech.org or if you would like to hire me.  The entire DARPA proposal for HR0011250001 is in there.
 
 ## Research
 
